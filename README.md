@@ -26,3 +26,5 @@
 使用效果图
 
 ![](https://gitee.com/EEEugene/my-drawing-bed/raw/master/img/微信图片_20210515112646.jpg "使用图")
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
